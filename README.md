@@ -221,7 +221,7 @@ Explore the interactive Call Centre Performance Dashboard through the view-only 
 
 **Monika A**
 
-Junior Data Analyst with a strong foundation in **Power BI, Excel, SQL, and Business Intelligence**. Passionate about building interactive dashboards, analyzing business data, and delivering actionable insights through data visualization and analytical problem-solving.
+Junior Data Analyst with a strong foundation in Microsoft Excel, SQL, Power BI, and Business Intelligence. Passionate about transforming raw data into meaningful business insights through data analysis, interactive dashboards, data visualization, and analytical problem-solving.
 
 ### 📬 Connect with Me
 
